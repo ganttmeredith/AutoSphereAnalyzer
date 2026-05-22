@@ -1,0 +1,20 @@
+# Input micrographs (user-provided; not distributed)
+input_image.png
+image.png
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated outputs (recreated by running the analyzer)
+output/
+
+# Local IDE
+.idea/
+.vscode/
