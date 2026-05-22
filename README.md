@@ -62,6 +62,4 @@ analyze_microparticles
 
 Sample raw micrographs are **not** included in this repository. The README figure is a **de-identified analysis output** only.
 
-## License
-
-MIT — see repository license file if present; otherwise treat as open source for academic and research use.
+Created by Orator
